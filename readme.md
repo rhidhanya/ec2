@@ -1,7 +1,8 @@
 <html>
 <h1>Hey everyone!<h1>
 <h2>I'm rhidhanz</h2>
-<p>my login page</p>
-<p>yeah this is right</p>
+<p>this is the master file, this is the main</p>
+<p>new message</p>
+<p>this is wrong!!!!</p>
 </html>
 
