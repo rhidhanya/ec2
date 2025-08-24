@@ -5,6 +5,10 @@
 <p>new message</p>
 <p>this is wrong!!!!</p>
 
+<<<<<<< HEAD
 <p>this is me!</p>
+=======
+<h1>this is new!</h1>
+>>>>>>> master
 </html>
 
